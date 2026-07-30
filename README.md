@@ -1,6 +1,10 @@
 # PicoUno · paquete portable
 
-Agente local con UI web, OpenRouter y herramientas para trabajar sobre una carpeta elegida.
+## Intro
+Un poco agotado de no encontrar un agente sencillo para openrouter y transparente, hice este basado en el sdk de openrouter, tiene errores probablemente. Si te sirve, úsalo sin garantía. Solo para uso personal. Cuidado con el modo 'full'. Sencillo de mantener, debuggear, 100% transparente y lo mejor gratis! (Si activas tus guardrails adecuadamente privacidad alta con ZDR.
+
+## Agente
+Local con UI web, OpenRouter y herramientas para trabajar sobre una carpeta elegida.
 
 | Perfil | Valor |
 |---|---|
