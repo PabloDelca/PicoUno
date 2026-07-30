@@ -1,0 +1,21 @@
+# Secretos y configuración local
+.env
+.env.*
+!.env.example
+
+# Entorno y estado generado
+.venv/
+.gca/
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Herramientas y sistema operativo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
